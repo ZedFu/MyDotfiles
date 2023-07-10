@@ -1,0 +1,7 @@
+alias cac="conda activate "
+alias tat="tmux attach -t "
+
+alias om='xrandr --output eDP --off'
+alias cfmq='sudo rmmod pcspkr'
+alias clashopen='export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7891'
+alias clashclose='unset http_proxy https_proxy all_proxy'
